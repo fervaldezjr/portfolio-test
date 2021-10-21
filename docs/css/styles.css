@@ -244,7 +244,7 @@ html{
 .responsive-gif{
     display: flex;
     justify-content: center;
-    background-image: url(/docs/images/responsive-design.gif);
+    background-image: url(./images/responsive-design.gif);
     background-position: center;
     background-size: cover;
     height: 300px;
